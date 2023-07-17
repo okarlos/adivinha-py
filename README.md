@@ -1,5 +1,4 @@
-# adivinha-py
-## Jogo de adivinhação para estudo de Python
+# Jogos em Python
+## Jogo de adivinhação e forca
 
-Iniciando estudos de Python.
-Entendendo as sintaxes de código.
+Projeto implementado para estudo da linguagem.
